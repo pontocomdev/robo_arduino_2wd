@@ -9,7 +9,7 @@ Neste repositório estão os projetos dos robôs separados por pasta, cada pasta
 01 - Montagem do Chassi do Robô Arduíno de 2 rodas (2WD)
 *******************
 
-Link com instruções em vídeo:
+Link com instruções em vídeo: https://youtu.be/5Gl00AlYIR0
 
 Lista de Dispositivos:
 
