@@ -3,13 +3,13 @@
 Projetos para criação dos Robôs Arduínos que usam o chassi de duas rodas (2WD)
 ###################
 
-Neste repositório estão os projetos dos robôs separados por pasta, cada pasta contém os códigos, bibliotecas e abaixo 
+Neste repositório estão os projetos dos robôs separados por pasta, cada pasta contém os códigos, bibliotecas e abaixo a lista de dispositivos com os respectivos links para orientações de montagem em vídeo. 
 
 *******************
 01 - Montagem do Chassi do Robô Arduíno de 2 rodas (2WD)
 *******************
 
-Link com instruções em vídeo:
+Link com instruções em vídeo: https://youtu.be/5Gl00AlYIR0
 
 Lista de Dispositivos:
 
