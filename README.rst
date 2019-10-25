@@ -36,11 +36,11 @@ Lista Materiais:
 02 - Como montar um robô autônomo com Arduíno
 *******************
 
-Link com instruções em vídeo: 
+Link com instruções em vídeo: https://youtu.be/9am5TQwPxxo
 
 Lista de Dispositivos:
 
-- Chassi 2WD montado (conforme especicifações do item 1)
+- Chassi 2WD montado (conforme especificações do item 1)
 - 1 Servo Motor 9g;
 - 1 Sensor ultrassônico HC-SR04;
 - 1 Buzzer;
